@@ -1,75 +1,60 @@
-
 <div align="center">
+  <img src="assets/profile-banner.svg" alt="Duvier Suárez-Fontanella — Software Engineering, Scientific Computing and Applied AI" width="100%" />
 
-# Hi, I'm Duvier
+  <p><strong>Software Engineering · Scientific Computing · Applied AI</strong></p>
 
-### Software Engineering | Scientific Computing | Applied AI
-
-PhD in Fundamental Physics and Mathematics
-
-Building software for scientific, engineering
-and real-world applications.
-
+  <a href="https://duviersuarezfontanella.es/">Personal website</a> ·
+  <a href="https://github.com/Du92/aXemg">Featured code</a> ·
+  <a href="https://orcid.org/0000-0002-3891-0187">Research profile</a>
 </div>
 
 ---
 
-## About Me
+### About
 
-I'm a physicist and software developer with
-hands-on experience in software engineering,
-numerical computing, computer vision, and
-data-driven applications.
+I am a software developer and computational physicist with a PhD in **Fundamental Physics and Mathematics**. My work combines **Python/C++ development**, numerical methods, data analysis, computer vision, and practical problem-solving.
 
-My work combines mathematical modelling,
-software architecture, and practical
-problem-solving.
+I have experience developing software in research and industry, including work on **cybersecurity-related applications**. I enjoy turning complex problems into clear, testable, and reusable software.
 
-- Software development with Python and C++
-- Full-stack applications and backend systems
-- Numerical simulations and data analysis
-- Machine learning and computer vision
-- Linux-based development environments
+### Languages & tools
 
-## Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### Selected work
 
-## Featured Projects
+**[aXemg — Axion Electrodynamics in Curved Spacetime](https://github.com/Du92/aXemg)**  
+Modular Python framework for numerical modelling on fixed 3+1 spacetime backgrounds.
 
-### SciRadar
-Full-stack web application for managing and
-publishing scientific events and discoveries.
+- 1D/2D finite-difference operators and RK4 integration
+- YAML configuration and reproducible parameter studies
+- Constraint diagnostics, tests, examples, and scientific visualization
 
-**Stack:** Next.js, Supabase, Vercel
+**Stack:** Python · Numerical Methods · YAML · pytest
 
-### aXemg
-Python scientific computing framework for
-3+1 axion electrodynamics and numerical modelling.
+**[Personal Website](https://github.com/Du92/personal-website)**  
+Personal academic website developed and published using Jekyll and GitHub Pages.
 
-**Stack:** Python, Scientific Computing
+**Stack:** Jekyll · Markdown · CSS · GitHub Pages
 
-### Napkin Notes
-Digital science publication with web and
-Android distribution.
+**[Napkin Notes](https://napkinnotes.es/)**  
+Independent science publication and digital product with web and Android distribution.
 
-**Stack:** Web Technologies, Android
+### Areas of interest
 
-## Engineering Interests
-
-Backend Development · Scientific Software ·
-High-Performance Computing · Applied AI ·
-Computer Vision
+`Software engineering` · `Scientific software` · `Backend systems` · `Computer vision` · `High-performance computing` · `Data-intensive applications`
 
 ---
 
 <div align="center">
-
-**Building reliable software from complex ideas.**
-
+  <small>Explore my code and projects here on GitHub, or visit my <a href="https://duviersuarezfontanella.es/">personal website</a> for research and professional background.</small>
 </div>
+
