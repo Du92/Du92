@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner-2.jpeg" alt="Duvier Suárez-Fontanella — Software Engineering, Scientific Computing and Applied AI" width="100%" />
+  <img src="assets/profile-banner-3.jpeg" alt="Duvier Suárez-Fontanella — Software Engineering, Scientific Computing and Applied AI" width="100%" />
 
   <p><strong>Software Engineering · Scientific Computing · Applied AI</strong></p>
 
