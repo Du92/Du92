@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner-3.png" alt="Duvier Suárez-Fontanella — Software Engineering and Computational Physics" width="100%" />
+  <img src="assets/profile-banner-3.jpeg" alt="Duvier Suárez-Fontanella — Software Engineering and Computational Physics" width="100%" />
 </p>
 
 <p align="center">
