@@ -1,8 +1,5 @@
-<!-- GitHub profile README for github.com/Du92 -->
-<!-- Add your chosen banner as assets/banner.png in this repository. -->
-
 <p align="center">
-  <img src="assets/banner.png" alt="Duvier Suárez-Fontanella — Software Engineering and Computational Physics" width="100%" />
+  <img src="assets/profile-banner-3.png" alt="Duvier Suárez-Fontanella — Software Engineering and Computational Physics" width="100%" />
 </p>
 
 <p align="center">
